@@ -46,20 +46,36 @@ Thai Voice → Whisper STT → Gemma-3 27B (Intent) → Qwen3-VL 8B (Vision) →
 
 <div align="center">
 
-**AI / LLM**  
+**Languages & Backend**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**AI, LLM & Agentic Workflows**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
+![VectorDB](https://img.shields.io/badge/Vector_Databases-3C469D?style=flat-square)
+![AgenticAI](https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square)
+
+**Machine Learning & Data Science**  
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Computer Vision**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![TesseractOCR](https://img.shields.io/badge/Tesseract_OCR-black?style=flat-square)
+![CNN](https://img.shields.io/badge/CNNs-orange?style=flat-square)
 
-**Robotics**  
+**Robotics & Hardware**  
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![JetsonNano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square)
 
 </div>
 
